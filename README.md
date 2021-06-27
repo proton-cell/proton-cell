@@ -2,7 +2,7 @@
 
 - **Busy fixing bugs in life.**
 
-- **Always aligned to learn new stuufs.**
+- **Always aligned to learn new stuffs.**
 
 - **I'm looking for help with Web Dev.**
 
