@@ -1,5 +1,5 @@
 <h1 align="center">👋, Harshvardhan here!</h1>
-<h3 align="center">Just a tourist here!</h3>
+<h3 align="center">Just an intro:-</h3>
 
 - **Busy fixing bugs in life.**
 
